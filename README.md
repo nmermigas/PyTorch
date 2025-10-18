@@ -97,5 +97,5 @@ This project has no specified license. By default, all rights are reserved to th
 
 This project may utilize code or resources from the following sources:
 
-*   [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-*   [Other tutorials and resources](Specify if other tutorials were used)
+* [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+* [Learn Pytorch](https://www.learnpytorch.io/)
